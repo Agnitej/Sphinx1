@@ -1,0 +1,6 @@
+Linking to another section
+============
+.. _cool-section:
+Header1
+--------------------------
+This section is in page 3, and the spelling of cool is C O O L

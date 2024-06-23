@@ -1,0 +1,11 @@
+Welcome to the page 2!!
+========================
+
+Here I will be writing a code
+A cool bit of code::
+
+   print("hello")
+   for i in range(10):
+        print(i)
+
+You can also go to index page to visit this code

@@ -1,0 +1,12 @@
+Embedding a Local Video
+=======================
+
+This is an embedded local video:
+
+.. raw:: html
+
+    <video width="600" height="400" controls autoplay>
+        <source src="Video/Introducing India's First Flexible Refrigerator - The Bosch MaxFlex _ #LiveFlexibleLikeABosch.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+

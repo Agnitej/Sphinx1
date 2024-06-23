@@ -1,0 +1,50 @@
+lists
+#################
+.. Every file must contain a header
+
+Ordered lists
+==============
+#. Step1
+#. Step2
+#. Step 3
+
+Ordered lists under ordered lists
+----------------------------------
+#. Step4
+    #. Content 1
+    #. Content 2
+#. Step 5
+    #. Content 3
+    #. Content 4
+
+
+Unordered lists 
+================
+ * Item1
+ * Item2
+ * Item3
+
+
+
+Unordered list inside ordered list
+-----------------------------------
+
+#. page1
+    * Item1
+    * Item2
+#. page2
+    * Item3
+
+Unordered List Inside Unordered List
+-------------------------------------
+
+* Page1
+    * content 1
+    * content 2
+* Page 2
+    * Content 3
+    * Content 4
+
+Including code or images inside lists
+======================================
+
